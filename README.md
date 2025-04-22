@@ -76,7 +76,7 @@ DATATABLE(
 ---
 
 ## 🖼️ Screenshot
-(![image](https://github.com/user-attachments/assets/01df6533-5d54-4c1e-92bf-db1c7a1064d3)
+![image](https://github.com/user-attachments/assets/01df6533-5d54-4c1e-92bf-db1c7a1064d3)
 
 
 ---
