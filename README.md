@@ -1,3 +1,7 @@
+![Banner](https://github.com/user-attachments/assets/47224a85-3472-4d59-8022-397138e5d50b)
+
+
+
 # 🌍 Global CO₂ Emissions Dashboard - Power BI
 
 This project is a fully interactive Power BI dashboard that visualizes and analyzes **global CO₂ emissions** trends, sources, and impacts. It combines rich datasets from Our World in Data to deliver actionable insights through cards, maps, slicers, pie charts, and dynamic KPIs.
