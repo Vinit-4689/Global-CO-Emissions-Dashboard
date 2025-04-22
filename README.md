@@ -85,9 +85,9 @@ DATATABLE(
 ```
 ├── cleaned_data/                  # Cleaned datasets for upload
 ├── visuals/                       # Screenshots or sample backgrounds
-├── PowerBI_Project.pbix          # Final Power BI dashboard file
-├── README.md                     # Project documentation
-├── INSIGHTS.md                     # insights found from the datasets
+├── PowerBI_Project.pbix           # Final Power BI dashboard file
+├── README.md                      # Project documentation
+├── INSIGHTS.md                    # insights found from the datasets
 ```
 
 ---
